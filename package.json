@@ -1,6 +1,11 @@
 {
   "name": "riverbraid-temporal-gold",
   "version": "1.3.0",
+  "description": "Sequence integrity and order validation",
   "type": "module",
-  "scripts": { "verify": "node verify.mjs" }
+  "main": "index.js",
+  "scripts": {
+    "verify": "node verify.mjs"
+  },
+  "license": "MIT"
 }
