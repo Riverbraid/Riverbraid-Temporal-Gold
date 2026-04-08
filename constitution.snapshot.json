@@ -1,6 +1,77 @@
-{
-  "name": "riverbraid-node",
-  "version": "1.5.0",
-  "timestamp": "2026-04-08T00:08:28.371Z",
-  "sha256": "0ba71cc78e6a88ade1775b2ed06d4d67a358dc8e6234ff34c9506fdb9e17e769"
-}
+[
+  {
+    "file": ".anchor"
+  },
+  {
+    "file": ".gitattributes"
+  },
+  {
+    "file": ".gitignore"
+  },
+  {
+    "file": "PROOFS/v1.5.0_resonance_proof.json.asc"
+  },
+  {
+    "file": "README.md"
+  },
+  {
+    "file": "SOVEREIGN-ENVIRONMENT.md"
+  },
+  {
+    "file": "audit-pulses.cjs"
+  },
+  {
+    "file": "bin/chronos_gate.mjs"
+  },
+  {
+    "file": "bin/gate.mjs"
+  },
+  {
+    "file": "bin/heartbeat.mjs"
+  },
+  {
+    "file": "bin/run-vectors.cjs"
+  },
+  {
+    "file": "constitution.snapshot.json.asc"
+  },
+  {
+    "file": "constitutional/DURABILITY.md"
+  },
+  {
+    "file": "constitutional/LAYER-INVARIANTS.md"
+  },
+  {
+    "file": "constitutional/NEUTRAL-LAYERS.md"
+  },
+  {
+    "file": "constitutional/RESILIENCE.md"
+  },
+  {
+    "file": "constitutional/SCOPE.md"
+  },
+  {
+    "file": "constitutional/SEAL-RECORD.md"
+  },
+  {
+    "file": "constitutional/SURVIVABILITY.md"
+  },
+  {
+    "file": "gate.mjs"
+  },
+  {
+    "file": "heartbeat.mjs"
+  },
+  {
+    "file": "run-vectors.cjs"
+  },
+  {
+    "file": "swarm.pulse.json.asc"
+  },
+  {
+    "file": "swarm_anchor.txt"
+  },
+  {
+    "file": "temporal-seal.cjs"
+  }
+]
