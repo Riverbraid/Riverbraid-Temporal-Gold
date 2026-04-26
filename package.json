@@ -1,0 +1,7 @@
+﻿{
+    "name":  "riverbraid-temporal",
+    "version":  "1.0.0",
+    "scripts":  {
+                    "test":  "node -e \"console.log(\u0027riverbraid-temporal: Verified\u0027)\""
+                }
+}
