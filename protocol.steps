@@ -1,0 +1,33 @@
+{
+  "schema": "riverbraid.gold.protocol.steps",
+  "version": "1.0.0",
+  "repo": "Riverbraid-Temporal-Gold",
+  "ring": 1,
+  "petal": "Temporal-Gold",
+  "invariant": "TEMPORAL_STATIONARY",
+  "claim_boundary": "declared-conditions-only",
+  "canonical_input": {
+    "repo": "Riverbraid-Temporal-Gold",
+    "petal": "Temporal-Gold",
+    "ring": 1,
+    "invariant": "TEMPORAL_STATIONARY"
+  },
+  "expected_result": true,
+  "steps": [
+    "receive canonical stationarity object",
+    "require repo to equal Riverbraid-Temporal-Gold",
+    "require petal to equal Temporal-Gold",
+    "require ring to equal 1",
+    "require invariant to equal TEMPORAL_STATIONARY",
+    "emit deterministic verification output"
+  ],
+  "forbidden": [
+    "Date",
+    "Math.random",
+    "randomUUID",
+    "timestamps",
+    "absolute paths",
+    "environment dependent values",
+    "external lookups"
+  ]
+}
