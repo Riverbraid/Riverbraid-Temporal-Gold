@@ -5,3 +5,6 @@ Non-linear temporal sight and temporal bridge journaling.
 * **Part of the Riverbraid Constellation.**
 * **Status**: V2 (Hardened)
 * **Protocol**: Mechanical Honesty
+
+## License
+MIT.
