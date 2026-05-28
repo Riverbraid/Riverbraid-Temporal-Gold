@@ -1,10 +1,37 @@
-# RIVERBRAID TEMPORAL
-Non-linear temporal sight and temporal bridge journaling.
+# Riverbraid-Temporal-Gold
 
-## System Context
-* **Part of the Riverbraid Constellation.**
-* **Status**: V2 (Hardened)
-* **Protocol**: Mechanical Honesty
+**Lifecycle category:** canonical
+**Normative source:** Riverbraid-Core
+**Claim boundary:** Declared Conditions Only
+
+## Role in Riverbraid
+
+Riverbraid-Temporal-Gold is a canonical Gold module surface within Riverbraid.
+
+This repository represents the Temporal domain inside the current Evaluation Kit registry. It preserves temporal verification and boundary material as part of the public Riverbraid constellation while Riverbraid-Core remains the normative source for protocol semantics.
+
+## Public verification boundary
+
+This repository is part of the current Evaluation Kit canonical verification registry.
+
+Primary public entry point:
+https://github.com/Riverbraid/Riverbraid-Evaluation-Kit
+
+Documentation hub:
+https://github.com/Riverbraid/Riverbraid-Documentation
+
+## Evidence boundary
+
+This repository does not claim certification, legal approval, production readiness, absolute security, external audit, complete AI safety, adoption, or absence of defects.
+
+## Authority boundary
+
+Riverbraid-Core remains the normative source for protocol semantics. This repository does not redefine canonical Riverbraid protocol rules.
 
 ## License
+
 MIT.
+
+---
+
+**Navigation:** [Evaluation Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit) | [Documentation](https://github.com/Riverbraid/Riverbraid-Documentation) | [System Map](https://github.com/Riverbraid/Riverbraid-Documentation)
